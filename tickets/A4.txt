@@ -1,0 +1,8 @@
+Ticket Information:
+Row: 0
+Seat: 4
+Price: $200.0
+Passenger Information:
+Name: rajika
+Surname: a
+Email: aaaa
